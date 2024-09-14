@@ -1,6 +1,3 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is Carlos Eduardo and my nickname is "Kaka"!
-
 <div>
 <a href="https://github.com/carlosedu757">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosedu757&layout=compact&langs_count=7&theme=dracula"/>
